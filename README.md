@@ -1,1 +1,1 @@
-Kandidaatin tutkintoni "Käytettävyysheuristiikat mobiilisovelluksille" löytyy Jyväskylän yliopiston JYX-julkaisuarkistosta osoitteesta: [https://jyx.jyu.fi/handle/123456789/86815](https://jyx.jyu.fi/handle/123456789/86815).
+Kandidaatin tutkielmani "Käytettävyysheuristiikat mobiilisovelluksille" löytyy Jyväskylän yliopiston JYX-julkaisuarkistosta osoitteesta: [https://jyx.jyu.fi/handle/123456789/86815](https://jyx.jyu.fi/handle/123456789/86815).
